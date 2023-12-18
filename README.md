@@ -1,0 +1,1 @@
+This work analyses the sentiments of different tweets on Twitter for different airlines with the use of natural language processing. The words are lemmatized and tokenized and the sentiments are label encoded. Further, different machine learning models were applied to the dataset and the accuracy is compared and then the parameters are hypertuned to improve the accuracy. 
